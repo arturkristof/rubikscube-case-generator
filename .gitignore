@@ -1,1 +1,5 @@
 .idea/
+target/
+/case-generator.iml
+/case-generator.ipr
+/case-generator.iws
